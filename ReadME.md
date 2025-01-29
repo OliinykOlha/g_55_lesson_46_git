@@ -13,19 +13,7 @@ git config --global user.email "your_email@example.com"
 git config --global user.name "Your Name"
 ````
 
-***Публикация проекта на GitHub***
 
-1. Создать проект
-2. Публикация проекта - VCS - Share Project on GitHub
-
-***Скачать с GitHub проект на компьютер***
-
-1. На сайте GitHub на вкладке Code нажать зелёную кнопку Code и скопировать ссылку на проект.
-2. В стартовом окне Идеи нажать кнопку Clone Repository
-3. В строку URL вставить ссылку на проект (которую скопировали на сайте)
-4. Нажать кнопку Clone
-
-***Публикация проекта на GitHub***
 
 1. Создать проект
 2. Публикация проекта - VCS - Share Project on GitHub
